@@ -1,7 +1,7 @@
 # ignore member configurations
 src/*
 !src/index.ts
-!src/YourCode.md
+!src/README.md
 
 # contains bot config
 config.json
